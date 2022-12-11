@@ -41,5 +41,29 @@ public class CalculatorTest {
     }
 
 
+    //*********** Unit Test for second increment *************
+    //Unit test for square root
+    @Test
+    public void given_one_integer_when_squareRoot_then_ok(){
+        System.out.println("Unit Test for square root");
+        assertEquals(4.0,c.square_root(16), 0.0001);
+    }
+    //Unit test for powerment
+    @Test
+    public void given_two_integers_when_powerment_then_ok(){
+        System.out.println("Unit Test for powerment");
+        assertEquals(125,c.powerment(5,3),0.0001);
+    }
+    //Unit test for logarithm
+    @Test
+    public void given_one_integer_when_logarithm_then_ok(){
+        System.out.println("Unit Test for logarithm");
+        assertEquals(0.6931471805599453,c.logarithm(2), 0.0001);
+    }
+
+
+
+
+
 
 }

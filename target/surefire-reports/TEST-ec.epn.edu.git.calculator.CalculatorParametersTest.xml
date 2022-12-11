@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="9" failures="0" name="ec.epn.edu.git.calculator.CalculatorParametersTest" time="0.008" errors="0" skipped="0">
+<testsuite tests="9" failures="0" name="ec.epn.edu.git.calculator.CalculatorParametersTest" time="0.01" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.2.4"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -64,13 +64,13 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[0]" time="0.007"/>
+  <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[0]" time="0.008"/>
   <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[1]" time="0"/>
-  <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[2]" time="0"/>
+  <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[2]" time="0.001"/>
   <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[3]" time="0"/>
   <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[4]" time="0"/>
   <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[5]" time="0"/>
   <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[6]" time="0"/>
-  <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[7]" time="0"/>
-  <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[8]" time="0.001"/>
+  <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[7]" time="0.001"/>
+  <testcase classname="ec.epn.edu.git.calculator.CalculatorParametersTest" name="given_parameters_when_addition_then_summation[8]" time="0"/>
 </testsuite>

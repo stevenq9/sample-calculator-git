@@ -18,5 +18,16 @@ public class CalculatorExecute {
 
         int division = c.division(88,44);
         System.out.println("----------------------------------------------");
+
+        //Second increment
+        System.out.println("\n************ New Operations ******************");
+        c.square_root(121);
+        System.out.println("----------------------------------------------");
+
+        c.powerment(8,5);
+        System.out.println("----------------------------------------------");
+
+        c.logarithm(7);
+
     }
 }
